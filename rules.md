@@ -2,10 +2,10 @@
 
 ## Main Commitment
 ### *I will code for at least an hour every day for the next 100 days.*
-####### *I will use progress from the FreeCodeCamp Curriculum and AIT 618 Towson University Masters in AIT course for my daily code commitment*
+### *I will use progress from the FreeCodeCamp Curriculum and AIT 618 Towson University Masters in AIT course for my daily code commitment*
 
 #### Start Date
-June 25th, 2016. [August 19, 2016]
+August 19, 2016
 
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
