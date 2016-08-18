@@ -9,4 +9,47 @@
 
 **Link to work:** [New Profile](https://www.freecodecamp.com/aghuntley)
 
+### Day 1: August 19, 2016 
 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** []()
+
+### Day 2: August 20, 2016 
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** []()
+
+### Day 3: August 21, 2016 
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** []()
+
+### Day 4: August 22, 2016 
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** []()
+
+### Day 5: August 23, 2016 
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** []()
