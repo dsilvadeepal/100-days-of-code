@@ -12,11 +12,11 @@
 ### Day 1: August 19, 2016 
 
 
-**Today's Progress**: 
+**Today's Progress**: Completed HTML5 and CSS section of FCC in one sitting.
 
-**Thoughts:** 
+**Thoughts:** Already knew HTML5 and CSS section when completing but it served as a great refresher.
 
-**Link to work:** []()
+**Link to work:** [HTML5 & CSS section completed](https://www.freecodecamp.com/challenges/use-rgb-to-mix-colors)
 
 ### Day 2: August 20, 2016 
 
