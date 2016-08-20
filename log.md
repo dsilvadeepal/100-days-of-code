@@ -21,11 +21,11 @@
 ### Day 2: August 20, 2016 
 
 
-**Today's Progress**: 
+**Today's Progress**: Completed bootstrap section of FCC.
 
-**Thoughts:** 
+**Thoughts:** Glad i'm restarting FCC as I didnot remember how to use bootstrap. Hoping to complete jQuery section today as well so beginners projects can be started tomorrow.
 
-**Link to work:** []()
+**Link to work:** [Responsive design with Bootstrap completed](https://www.freecodecamp.com/challenges/use-comments-to-clarify-code)
 
 ### Day 3: August 21, 2016 
 
