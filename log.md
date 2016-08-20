@@ -21,11 +21,11 @@
 ### Day 2: August 20, 2016 
 
 
-**Today's Progress**: Completed bootstrap section of FCC.
+**Today's Progress**: Completed bootstrap section of FCC. Also completed jQuery section. Chose Ryan Holiday as tribute page topic and began sketching a rough diagram of the project that I will code tomorrow, day 3.
 
-**Thoughts:** Glad i'm restarting FCC as I didnot remember how to use bootstrap. Hoping to complete jQuery section today as well so beginners projects can be started tomorrow.
+**Thoughts:** Glad i'm restarting FCC as I didnot remember how to use bootstrap. ~~Hoping to complete jQuery section today as well so beginners projects can be started tomorrow.~~ finished jQuery and remembered most of it. Decided on building my Tribute page tomorrow on Ryan Holiday, author of many books I enjoy including 'The Obstacle is the Way'. I believe I've decided on building the first two beginner projects in codepen so I can get them under my belt, then I will do all remaning projects using github and githubpages.
 
-**Link to work:** [Responsive design with Bootstrap completed](https://www.freecodecamp.com/challenges/use-comments-to-clarify-code)
+**Link to work:** [Responsive design with Bootstrap completed](https://www.freecodecamp.com/challenges/use-comments-to-clarify-code) [jQuery section completed](https://www.freecodecamp.com/challenges/use-jquery-to-modify-the-entire-page)
 
 ### Day 3: August 21, 2016 
 
