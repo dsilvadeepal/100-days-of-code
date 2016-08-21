@@ -30,11 +30,11 @@
 ### Day 3: August 21, 2016 
 
 
-**Today's Progress**: 
+**Today's Progress**: Started tribute page project on codepen. Created all markup and added necessary images. Begun organizing html markup into necessary div containers etc. Reading through bootstrap documentation.
 
-**Thoughts:** 
+**Thoughts:** Figuring out how to use bootstrap and the proper class titles to style page properly wasn't difficult but time consuming. Need a better plan before starting to code next time. Will finish div's, add the rest of the proper bootstrap classes and style page in css tomorrow so I can progress to porfolio challenge either tommorrow night or Tuesday.
 
-**Link to work:** []()
+**Link to work:** [Tribute Page build](http://codepen.io/aghuntley/pen/AXkBdk)
 
 ### Day 4: August 22, 2016 
 
