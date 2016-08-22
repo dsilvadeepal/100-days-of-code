@@ -39,13 +39,58 @@
 ### Day 4: August 22, 2016 
 
 
+**Today's Progress**: Sharpened up the bootstrap and completed the CSS for the Ryan Holiday Tribute page for FCC. Submitted to FCC. Begun planning porfolio page that I will begin coding tomorrow.
+
+**Thoughts:** Had fun building the Tribute page though it reminded me how much I have to learn about web design. The proper spacing, color scheme etc. is still out of my grasp but this project was great practice. I will be adding more detail and taking a deeper dive into this with the next project, the porfolio page. It will be fun to look back and see my progress in a few months when I have more web pages/sites under my belt. I do need to learn more on bootsrap, particularly how to properly use their grid system for each type of screeen rather than limiting myself to just the xs or md sizes.
+
+**Link to work:** [Completed Tribute Page on Codepen](http://codepen.io/aghuntley/pen/AXkBdk)
+
+### Day 5: August 23, 2016 
+
+
 **Today's Progress**: 
 
 **Thoughts:** 
 
 **Link to work:** []()
 
-### Day 5: August 23, 2016 
+### Day 6: August 24, 2016 
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** []()
+
+### Day 7: August 25, 2016 
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** []()
+
+### Day 8: August 26, 2016 
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** []()
+
+### Day 9: August 27, 2016 
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** []()
+
+### Day 10: August 28, 2016 
 
 
 **Today's Progress**: 
