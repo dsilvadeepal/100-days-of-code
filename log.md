@@ -48,11 +48,11 @@
 ### Day 5: August 23, 2016 
 
 
-**Today's Progress**: 
+**Today's Progress**: Added markup of all text to my FCC portfolio page in FCC. Figuring out the exact layout of each page before begining to code tomorrow. Grabbed necessary images from the web.
 
-**Thoughts:** 
+**Thoughts:** Want to make this a very good looking portfolio despite it being my first build through, definitely want it to look better and take a longer stab at it than with my tribute page and past personal projects. Will be using HTML, CSS, jQuery and Bootsrap to complete this project. Currently deciding how best to layout the page. I want to include boxes for each 10 projects associated with each of the 3 certificates, Frontend, Backend and Data Visualization. I also want to include course descriptions in a towson section on the portfolio page. Possibly linking some school projects to it in the distant future. Will also be including a nav bar and bio section. I know how to complete the user stories but I want this page to look better than the FCC example project and be well organized/viewable with all the info I want to present.
 
-**Link to work:** []()
+**Link to work:** [Codepen Portfolio Page with markup](http://codepen.io/aghuntley/pen/VjOgjG)
 
 ### Day 6: August 24, 2016 
 
