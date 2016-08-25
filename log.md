@@ -57,11 +57,11 @@
 ### Day 6: August 24, 2016 
 
 
-**Today's Progress**: 
+**Today's Progress**: No code today. Only reading about bootstrap for portfolio and looking into how to make a logo. Will add extra day to make 101 days of code as no progress was made today.
 
-**Thoughts:** 
+~~**Thoughts:** ~~
 
-**Link to work:** []()
+~~**Link to work:** []()~~
 
 ### Day 7: August 25, 2016 
 
