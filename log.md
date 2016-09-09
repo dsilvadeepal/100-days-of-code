@@ -63,7 +63,9 @@
 
 ~~**Link to work:** []()~~
 
-### Day 7: August 25, 2016 
+**Missed two weeks of this challenge. Will be restarting from day one, picking up with my last project, the FCC Portfolio Page.**
+
+### Day 1: September 9, 2016 
 
 
 **Today's Progress**: 
@@ -72,7 +74,7 @@
 
 **Link to work:** []()
 
-### Day 8: August 26, 2016 
+### Day 2: September 10, 2016 
 
 
 **Today's Progress**: 
@@ -81,7 +83,7 @@
 
 **Link to work:** []()
 
-### Day 9: August 27, 2016 
+### Day 3: September 11, 2016 
 
 
 **Today's Progress**: 
@@ -90,7 +92,16 @@
 
 **Link to work:** []()
 
-### Day 10: August 28, 2016 
+### Day 4: September 12, 2016 
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** []()
+
+### Day 5: September 13, 2016 
 
 
 **Today's Progress**: 
