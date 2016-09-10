@@ -68,11 +68,11 @@
 ### Day 1: September 9, 2016 
 
 
-**Today's Progress**: 
+**Today's Progress**: Added links to navbar. decided to keep seperate pages for each FCC cert projects rather than a menu that would squish them. nav bar will still have to be manipulated with css etc. but got it positioned and finalized all necessary links tonight.
 
-**Thoughts:** 
+**Thoughts:** Glad to be working on this again. I think I overwhelmed myself with a portfolio idea that was not beyond my capabilities but very labor intensive. I am now just focused on getting each page laid out daily and then I will work out how to animate and design the page once everything is in working order.
 
-**Link to work:** []()
+**Link to work:** [Codepen Portfolio Page with navbar](http://codepen.io/aghuntley/pen/VjOgjG)
 
 ### Day 2: September 10, 2016 
 
