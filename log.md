@@ -74,7 +74,10 @@
 
 **Link to work:** [Codepen Portfolio Page with navbar](http://codepen.io/aghuntley/pen/VjOgjG)
 
-### Day 2: September 10, 2016 
+# 100 Days Of Code - Log 2017 Attempt
+
+
+### Day 1: January 3, 2017
 
 
 **Today's Progress**: 
@@ -83,29 +86,3 @@
 
 **Link to work:** []()
 
-### Day 3: September 11, 2016 
-
-
-**Today's Progress**: 
-
-**Thoughts:** 
-
-**Link to work:** []()
-
-### Day 4: September 12, 2016 
-
-
-**Today's Progress**: 
-
-**Thoughts:** 
-
-**Link to work:** []()
-
-### Day 5: September 13, 2016 
-
-
-**Today's Progress**: 
-
-**Thoughts:** 
-
-**Link to work:** []()
