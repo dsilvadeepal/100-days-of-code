@@ -78,11 +78,14 @@
 
 
 ### Day 1: January 3, 2017
+### During this challenge I will be following closely to a Job ready Guide posted in the FCC forum by @P1xt. While I will create projects in relation to this guide and FCC, my main goal is to get a deeper understanding of Javascript and MEAN before I enter the job market in May. This means knowledge comes before projects on some days.
 
 
-**Today's Progress**: 
+**Today's Progress**: Began the day with registering for two EDX courses, CS50x and Introduction to MongoDB using the Mean Stack. 
 
 **Thoughts:** 
 
 **Link to work:** []()
+**Link to github:** [My github](github.com/aghuntley)
+**Link to twitter:** [My Twitter](https://twitter.com/AinsleyHuntley)
 
