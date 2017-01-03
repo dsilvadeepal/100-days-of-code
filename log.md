@@ -76,16 +76,20 @@
 
 # 100 Days Of Code - Log 2017 Attempt
 
-
-### Day 1: January 3, 2017
 ### During this challenge I will be following closely to a Job ready Guide posted in the FCC forum by @P1xt. While I will create projects in relation to this guide and FCC, my main goal is to get a deeper understanding of Javascript and MEAN before I enter the job market in May. This means knowledge comes before projects on some days.
 
 
-**Today's Progress**: Began the day with registering for two EDX courses, CS50x and Introduction to MongoDB using the Mean Stack. 
+### Day 1: January 3, 2017
 
-**Thoughts:** 
 
-**Link to work:** []()
+
+**Today's Progress**: Began the day with registering for two EDX courses, CS50x and Introduction to MongoDB using the Mean Stack. created a github page for my portfolio site. Only did very quick/short markdown for it so I could see how github pages worked. Design/more code tomorrow
+
+**Thoughts:** Totally underestimated the time it would take to get comftorable using git. Also after spending months away from front end learning because of learning php/database stuff in my grad program, I feel the design and coding of my portfolio will take a few more days then anticipated so I can get back into the swing of things.
+
+**Link to work:** [My portfolio](aghuntley.github.io)
+
 **Link to github:** [My github](github.com/aghuntley)
+
 **Link to twitter:** [My Twitter](https://twitter.com/AinsleyHuntley)
 
