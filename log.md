@@ -111,4 +111,18 @@
 **Link to twitter:** [My Twitter](https://twitter.com/AinsleyHuntley)
 
 
+### Day 3: January 5, 2017
+
+
+
+**Today's Progress**: Created basic sketch of simple portfolio website. Started coding it in atom. Includes navbar, header image, bio section, project section and contact section. Only thing left to be done is fix some of the css, add placeholder text/images to the cards and figure out the toggle problem with my navbar.
+
+**Thoughts:** Good progress today. Took a while to get used to bootstrap again. Hoping to finish tomorrow and submit to FCC tomorrow as well. I have big ideas for my self hosted portfolio. This current site is a great starting point though.
+
+**Link to work:** [My portfolio](aghuntley.github.io)
+
+**Link to github:** [My github](github.com/aghuntley)
+
+**Link to twitter:** [My Twitter](https://twitter.com/AinsleyHuntley)
+
 
