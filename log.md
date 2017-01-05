@@ -96,7 +96,7 @@
 
 
 
-### Day 1: January 4, 2017
+### Day 2: January 4, 2017
 
 
 
