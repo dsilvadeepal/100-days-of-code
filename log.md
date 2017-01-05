@@ -93,3 +93,22 @@
 
 **Link to twitter:** [My Twitter](https://twitter.com/AinsleyHuntley)
 
+
+
+
+### Day 2: January 4, 2017
+
+
+
+**Today's Progress**: Git, Git and more Git
+
+**Thoughts:** One more git tutorial and ill be off to the races.
+
+**Link to work:** [My portfolio](aghuntley.github.io)
+
+**Link to github:** [My github](github.com/aghuntley)
+
+**Link to twitter:** [My Twitter](https://twitter.com/AinsleyHuntley)
+
+
+
