@@ -125,4 +125,18 @@
 
 **Link to twitter:** [My Twitter](https://twitter.com/AinsleyHuntley)
 
+### Day 4: January 6, 2017
+
+
+
+**Today's Progress**: finished version 1.0 of my portfolio. There is still a lot I want to do with it in the future but for now it works. In finishing it I was able to get familiar with bootstrap again, basics of how to organize a page etc etc. This version 1.0 however not the one I had created on day 3. This is much simpler as I had to take out effects and other things as the color wasn't working nor could I get some javascript working.
+
+**Thoughts:** happy with finishing it today. reminded that I need to do better planning before executing a project. However by pushing through and getting this project done quickly I can continue to add to it during the challenge and pick up the necessary skills in order to code the portfolio site that I have in my head. 
+
+**Link to work:** [My portfolio](aghuntley.github.io) aghuntley.github.io
+
+**Link to github:** [My github](github.com/aghuntley)
+
+**Link to twitter:** [My Twitter](https://twitter.com/AinsleyHuntley)
+
 
